@@ -1,1 +1,4 @@
+yeet life
+
+#add somthing random
 yeet = 10
