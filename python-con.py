@@ -1,5 +1,8 @@
-name = ‘emerson’
-lastName = ’castillo’
+name = 'emerson'
+lastName = 'castillo'
+full_name = name + ' ' + lastName
 
-print(name.title() + ‘  ‘ + lastName.title())
+print(full_name.title())
+
+
 
