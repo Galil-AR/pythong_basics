@@ -1,5 +1,5 @@
-name = emerson
-lastName = castillo
+name = ‘emerson’
+lastName = ’castillo’
 
-print(name + ' ' + lastName.title())
+print(name + ‘  ‘ + lastName)
 
